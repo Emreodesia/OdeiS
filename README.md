@@ -1,4 +1,4 @@
-![1](https://github.com/Emreodesia/OdeiS/assets/115417234/221f039d-1119-4151-a624-d6bf15149113)# OdeiS
+# OdeiS
 Project Introduction:
 
   It is a corporate website project developed using HTML, CSS3, Bootstrap 5 and jQuery technologies. The main purpose of this project is to strengthen the online presence of a company with a user-friendly interface combined with a modern design approach.
