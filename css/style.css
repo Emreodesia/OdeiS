@@ -95,9 +95,12 @@ body {
     transition: background-color 0.5s ease;
     margin: 0;
     font-family: Arial, sans-serif;
+<<<<<<< HEAD
 
  margin-bottom: 0;
     
+=======
+>>>>>>> 6d8aebe61526cab3c9112c8a25bb7618fc8cd234
 }
 
 .navbar {
@@ -124,4 +127,8 @@ body {
 .toggle-mode.active {
     background-color: #333;
     color: #fff;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6d8aebe61526cab3c9112c8a25bb7618fc8cd234

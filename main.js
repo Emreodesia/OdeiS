@@ -22,8 +22,41 @@
 });
 
 
+<<<<<<< HEAD
 
 
+=======
+//Animation
+
+$(document).ready(function() {
+  
+    $('body').append('<div id="animatedElement" style="width: 100px; height: 100px; background: red;"></div>');
+
+ 
+    $('#animatedElement').animate({
+        opacity: 0.25
+    }, 2000, function() {
+        
+        console.log('Animasyon tamamlandı!');
+    });
+});
+
+
+
+$(document).ready(function() {
+    
+    $('body').append('<div id="rotatingSquare" style="width: 100px; height: 100px; background: red; position: relative;"></div>');
+
+    
+    $('#rotatingSquare').animate({  borderSpacing: -180 }, {
+        step: function(now, fx) {
+            $(this).css('transform','rotate('+now+'deg)'); 
+        },
+        duration: 2000
+    }, 'linear');
+});
+
+>>>>>>> 6d8aebe61526cab3c9112c8a25bb7618fc8cd234
 //Dark Mode 
 $(document).ready(function(){
     $("#toggleMode").click(function(){
