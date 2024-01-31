@@ -25,11 +25,8 @@ How to use:
 
 Download the project files to your computer.
 You can review the project by opening HTML files in a browser
-![1](https://github.com/Emreodesia/OdeiS/assets/115417234/505c1732-b2de-438d-8b7f-fb7859233846)
-![2](https://github.com/Emreodesia/OdeiS/assets/115417234/180abf59-2cb3-4230-b7aa-7041ea747eba)
-![3](https://github.com/Emreodesia/OdeiS/assets/115417234/f587d8c0-07d3-41aa-a8ce-a9f01717fb8a)
-![6](https://github.com/Emreodesia/OdeiS/assets/115417234/f1d66e8d-b4f1-47fd-b105-93d088a4e4e4)
-![5](https://github.com/Emreodesia/OdeiS/assets/115417234/6316d4c5-dd6a-41fd-b033-eaf103ef5bd6)
+https://emreodesia.github.io/OdeiS/
+![1](https://github.com/Emreodesia/OdeiS/assets/115417234/88fd4495-b5d7-42c2-a185-35d8c91db3e7)
 
 
 
